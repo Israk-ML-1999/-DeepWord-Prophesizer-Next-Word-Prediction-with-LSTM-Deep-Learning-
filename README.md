@@ -1,0 +1,2 @@
+# -DeepWord-Prophesizer-Next-Word-Prediction-with-LSTM-Deep-Learning-
+I took a blog on deep learning as a data set. The above project is powered by LSTM deep learning to predict the next word in a text. Dive into the world of natural language processing and advance your understanding of deep learning models for text generation. Unlock the potential of predictive text generation with this repository."
